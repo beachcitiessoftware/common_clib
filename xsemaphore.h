@@ -2,7 +2,7 @@
 //  xSemaphore.h
 //  AudioFetchSDK
 //
-//  Copyright © 2019 Audio Fetch. All rights reserved.
+//  Copyright © 2019 Beach Cities Software, LLC. All rights reserved.
 //
 
 #ifndef xsemaphore_h
