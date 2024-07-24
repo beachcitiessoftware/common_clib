@@ -1,6 +1,5 @@
 //
 //  xSemaphore.h - x-platform semaphore for iOS & Android (POSIX)
-//  AudioFetchSDK
 //
 //  Copyright © 2019 Beach Cities Software, LLC. All rights reserved.
 //
